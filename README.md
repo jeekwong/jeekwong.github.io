@@ -1,2 +1,0 @@
-# WUHAN
-wuhan.today
