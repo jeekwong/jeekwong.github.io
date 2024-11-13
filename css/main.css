@@ -255,7 +255,13 @@ Primary use:
 
 /*---------------------------------------------*/
 
+.contact {
+  opacity: 0.1;
+}
 
+.contact:hover {
+  opacity: 0.5;
+}
 
 
 
